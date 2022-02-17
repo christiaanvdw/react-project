@@ -24,3 +24,5 @@ const ExpensesFilter = (props) => {
 export default ExpensesFilter;
 
 // chosen year is lifted up to the expenses component from expense filter and store it in state there
+
+// new array based on previous expenses array through the chosen filter function
